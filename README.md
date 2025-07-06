@@ -2,7 +2,7 @@
 
 This project is an interactive and dynamic Sales Executive Performance Dashboard built using **Microsoft Excel** and **VBA**. It allows users to view **top and bottom performers** across multiple cities like Patna, Chennai, Delhi, etc., with visualizations such as **bar charts, pie charts, and line graphs**.
 
-Sales Executive Performance Dashboard is an interactive Excel-based dashboard that tracks and visualizes the top and bottom 5 sales executives across different cities using pivot tables, slicers, charts, and VBA automation. It includes insights on total sales, target achievement, and visual trends through bar, pie, and line charts.
+Sales Executive Performance Dashboard is an interactive Excel-based dashboard that tracks and visualizes the top and bottom 5 sales executives across different cities using pivot tables, slicers, charts, MACROS  and VBA automation. It includes insights on total sales, target achievement, and visual trends through bar, pie, and line charts.
 
 
 
