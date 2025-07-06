@@ -34,7 +34,8 @@ The `SlicerConnection()` subroutine in the VBA editor dynamically connects/disco
 
 ## 📷 Screenshots
 
-![Dashboard Preview](your-screenshot-path)
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/8ef1ffa3-665d-47a1-8043-2381e7e07eaf)
+)
 
 ## 🚀 Getting Started
 
