@@ -47,6 +47,7 @@ The `SlicerConnection()` subroutine in the VBA editor dynamically connects/disco
 ## 📌 Author
 
 Made with 💡 by **[Atharva Harane]**
+
 🔗 Check out more of my work on my portfolio: [https://atharvaharane.netlify.app/](https://atharvaharane.netlify.app)
 
 ---
