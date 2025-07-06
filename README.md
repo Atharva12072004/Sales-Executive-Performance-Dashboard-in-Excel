@@ -4,7 +4,7 @@ This project is an interactive and dynamic Sales Executive Performance Dashboard
 
 Sales Executive Performance Dashboard is an interactive Excel-based dashboard that tracks and visualizes the top and bottom 5 sales executives across different cities using pivot tables, slicers, charts, and VBA automation. It includes insights on total sales, target achievement, and visual trends through bar, pie, and line charts.
 
-![image](https://github.com/user-attachments/assets/4cfff042-71d1-4ab6-9e05-71ef3b4fc618)
+
 
 
 ## 🔧 Features
@@ -17,9 +17,6 @@ Sales Executive Performance Dashboard is an interactive Excel-based dashboard th
 - 📈 Dynamic data visualizations: bar chart, pie chart & line graph.
 - 🧠 VBA script to control slicer connections to pivot tables for different dashboards.
 - 🎯 Fully interactive & Excel-based without needing external plugins.
-- 
-  ![image](https://github.com/user-attachments/assets/5d8308f0-cdae-433a-a19a-3a4fa0fb2ab2)
-
 
 ## 💻 Technologies Used
 
