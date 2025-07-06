@@ -23,6 +23,7 @@ Sales Executive Performance Dashboard is an interactive Excel-based dashboard th
 - Microsoft Excel
 - VBA (Visual Basic for Applications)
 - Pivot Tables
+- MACROS
 - Charts (Bar, Pie, Line)
 
 ## 🧩 VBA Script
